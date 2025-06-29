@@ -1,2 +1,2 @@
 ### Sapayus Locomotion
-***A Capuchin Type Locomotion!**
+**A Capuchin Type Locomotion!**
